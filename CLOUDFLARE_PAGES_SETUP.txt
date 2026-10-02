@@ -1,0 +1,13 @@
+SELECTICORE v69 — CLOUDFLARE PAGES PRODUCTION DEPLOYMENT
+
+1. Create a D1 database: npx wrangler d1 create selecticore-prod
+2. Put its database_id into wrangler.toml.
+3. Apply schema: npx wrangler d1 execute selecticore-prod --remote --file=db/schema.sql
+4. Set the Cloudflare environment variable GOOGLE_CLIENT_ID to your Google Web Client ID.
+5. Add the production Pages origin to Google Cloud's authorised JavaScript origins.
+6. npm install
+7. Deploy: npx wrangler pages deploy .
+
+Includes Pages Functions, D1 users/sessions/progress, Google ID-token verification via Google's JWKS, HttpOnly Secure sessions, security headers/CSP and guest mode.
+
+Never place a Google client secret, D1 credentials or Wrangler token in the public site.

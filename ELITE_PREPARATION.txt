@@ -1,0 +1,21 @@
+SELECTICORE v69 — ELITE SELECTIVE CHALLENGE BANK
+
+The 16,000 numbered tests use a harder Selective-style generation layer.
+
+Design goals:
+- NSW current structure: Reading 17 questions / 38 answers / 45 min;
+  Mathematical Reasoning 35 / 40 min; Thinking Skills 40 / 40 min;
+  Writing 1 / 30 min.
+- Multi-step mathematical reasoning using Year-6 concepts.
+- Conditional, ordering, set, sequence and deduction problems in Thinking Skills.
+- Longer evidence-rich Reading passages with inference, comparison, tone,
+  purpose, structure and evidence questions.
+- Writing prompts requiring controlled narrative development, foreshadowing,
+  purposeful dialogue, character motivation and meaningful endings.
+- Close distractors and time-aware question design.
+
+Important:
+This is original SelectiCore practice content. It is not official NSW material,
+not an official James Ruse test, and does not guarantee any school placement.
+The NSW Department says the placement test measures ability using concepts from
+the NSW curriculum through Year 6 and does not require special outside knowledge.

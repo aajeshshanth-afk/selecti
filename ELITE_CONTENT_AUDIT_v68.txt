@@ -1,0 +1,20 @@
+SELECTICORE v69 — ELITE CONTENT AUDIT
+
+Scope: generated Selective question engine, 4,000 tests per subject.
+
+Validated:
+- 16,000 total tests.
+- Reading: 17 groups, 38 answer parts, exactly three multi-part groups of 3,3,4; 45 minutes.
+- Mathematical Reasoning: 35 questions, 5 unique choices; 40 minutes.
+- Thinking Skills: 40 questions, 4 unique choices; 40 minutes.
+- Writing: 1 open response; 30 minutes.
+- All generated tests pass structural validation and the automated professional quality gate.
+- Difficulty distribution in the elite generator is Advanced / Challenge / Extreme Challenge.
+- Reading now uses multiple source texts/genres across each test rather than one repeated passage.
+- Reading explanations are question-specific rather than a single generic explanation.
+- Metadata includes topic, skill, difficulty and quality tier.
+
+Content-quality limitation:
+The bank is algorithmically generated from authored templates and is not equivalent to 16,000 individually human-authored items. Automated QA cannot fully judge ambiguity, elegance, age-appropriateness, distractor plausibility or pedagogical value. A true commercial-grade item bank should receive educator/item-writer review, especially for the highest-difficulty items.
+
+This build must not be represented as official NSW or James Ruse material.

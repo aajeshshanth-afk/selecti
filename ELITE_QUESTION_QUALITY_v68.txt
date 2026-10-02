@@ -1,0 +1,16 @@
+SELECTICORE v69 — ELITE QUESTION QUALITY
+
+This build strengthens the content layer rather than merely changing the UI.
+
+Quality principles:
+- Current NSW Selective structure is preserved.
+- Maths and Thinking use multi-step, conditional, comparison, reverse and unfamiliar-application reasoning.
+- Reading uses multiple source texts/genres, evidence, inference, author purpose, structure, tone, vocabulary and application questions.
+- Writing prompts require controlled narrative development, foreshadowing, character motivation, purposeful dialogue and meaningful endings.
+- Difficulty is Advanced / Challenge / Extreme Challenge; there is no Foundation tier in the elite generator.
+- Every generated test passes structural and automated quality gates before being returned.
+- Answer choices are checked for uniqueness and valid answer indexing.
+- Explanations and skill/topic metadata are required.
+
+Important limitation:
+Automated generation and QA are not the same as human item-writer review. This package must not be represented as official NSW or James Ruse material. For commercial launch, a qualified educator/item-writing review pass is still recommended for the highest-stakes questions.

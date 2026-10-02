@@ -1,0 +1,26 @@
+SELECTICORE v69 — ELITE CONTENT QA AUDIT
+
+Production scope:
+- 16,000 Selective tests: 4,000 Reading, 4,000 Maths, 4,000 Thinking Skills, 4,000 Writing.
+- 4,000 complete mock combinations.
+- 16,000 Typing Lab tests retained.
+
+Automated QA:
+- Current NSW structure preserved.
+- Answer-index and unique-option validation retained.
+- Independent numeric shadow checks added for common arithmetic question families.
+- Near-duplicate stem detection added as a warning layer.
+- Reading source diversity and source overuse checks added.
+- Difficulty/reasoning-density scoring added.
+- Explanation and metadata checks strengthened.
+- Writing craft-demand checks strengthened.
+- Critical failures block publication; non-critical warnings are recorded.
+
+Sample validation performed after the v69 engine update:
+- 100 Reading tests sampled across the 4,000-test range: 100% published, minimum quality score 100.
+- 100 Maths tests sampled across the 4,000-test range: 100% published, minimum quality score 100.
+- 100 Thinking Skills tests sampled across the 4,000-test range: 100% published, minimum quality score 100.
+- 100 Writing tests sampled across the 4,000-test range: 100% published, minimum quality score 97.
+- Total sample: 400 tests, 0 publication failures.
+
+The complete 16,000-bank count remains defined by the production manifest and generator range. The automated sample above is not a claim that every item was individually human-reviewed.

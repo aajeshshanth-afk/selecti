@@ -1,0 +1,34 @@
+{
+  "samples": {
+    "reading": {
+      "count": 100,
+      "min": 100,
+      "avg": 100,
+      "publish_failures": [],
+      "failure_count": 0
+    },
+    "math": {
+      "count": 100,
+      "min": 100,
+      "avg": 100,
+      "publish_failures": [],
+      "failure_count": 0
+    },
+    "thinking": {
+      "count": 100,
+      "min": 100,
+      "avg": 100,
+      "publish_failures": [],
+      "failure_count": 0
+    },
+    "writing": {
+      "count": 100,
+      "min": 97,
+      "avg": 97,
+      "publish_failures": [],
+      "failure_count": 0
+    }
+  },
+  "total_sampled": 400,
+  "failures": 0
+}

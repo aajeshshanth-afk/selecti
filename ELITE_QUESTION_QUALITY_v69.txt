@@ -1,0 +1,25 @@
+SELECTICORE v69 — AUTOMATED ELITE QUESTION QUALITY ENGINE
+
+v69 keeps the v68 production Cloudflare architecture and adds a stricter automated content-quality layer.
+
+QUALITY PIPELINE
+1. Structural validation: current NSW Selective section counts, timing, answer-part counts and option counts.
+2. Answer integrity: answer-index bounds, unique options and independent numeric shadow checks for common arithmetic families.
+3. Distractor checks: duplicate/synthetic options, numeric-shape sanity and outlier warnings.
+4. Diversity checks: normalized near-duplicate stem detection, source-passage diversity and overused-source warnings.
+5. Difficulty calibration: reasoning-density score based on conditions, information load, multi-step language and skill/topic complexity.
+6. Explanation checks: minimum explanation depth, metadata presence and generic-explanation warnings.
+7. Writing quality checks: prompt length, context richness and required craft demands.
+8. Publish gate: critical correctness/option failures block publication; non-critical warnings are retained as QA metadata.
+
+QUALITY METADATA
+Each generated test carries:
+- score
+- subscores for correctness, clarity, distractors, difficulty, explanation and diversity
+- criticalIssues
+- warningCount
+- publish status
+- automated-quality-gated review status
+
+IMPORTANT LIMITATION
+This is an automated item-quality system, not human item-writer review. It can detect many structural, arithmetic, duplication and consistency failures, but it cannot guarantee the editorial judgement of an expert NSW Selective test writer. Content remains original practice material and is not official NSW or James Ruse material.
